@@ -1,7 +1,7 @@
 # Midterm 
 
 ## **Week 2:**
-** Lab Contents: **
+** Lab Contents: 
 
 Getting started with Google Colab
 
