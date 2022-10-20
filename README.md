@@ -1,7 +1,7 @@
 # Midterm 
 
 ## **Week 2:**
-* Lab Contents:* 
+* Lab Contents: 
 
 Getting started with Google Colab
 
@@ -16,7 +16,7 @@ https://github.com/tosmeley/project_folder/blob/main/week_2_part_2.ipynb
 	 
 
 ## **Week 5:** 
-** Lab Contents: **
+** Lab Contents: 
 
 Computational graph
 
