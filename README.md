@@ -1,7 +1,8 @@
 # Midterm 
 
-##**Week 2:**:  https://github.com/tosmeley/project_folder/blob/main/week_2.ipynb
-         https://github.com/tosmeley/project_folder/blob/main/week_2_part_2.ipynb
+## **Week 2:**
+https://github.com/tosmeley/project_folder/blob/main/week_2.ipynb
+https://github.com/tosmeley/project_folder/blob/main/week_2_part_2.ipynb
 	 
 Week 2 Lab Contents	 
 *Getting started with Google Colab
@@ -9,10 +10,11 @@ Week 2 Lab Contents
 *Importing Kaggle’s dataset
 *Basic File Operations
 
-**Week 5:** 
-             https://github.com/tosmeley/project_folder/blob/main/Intro.ipynb
-             https://github.com/tosmeley/project_folder/blob/main/Intro1.ipynb
-             https://github.com/tosmeley/project_folder/blob/main/Intro_to_Colab.ipynb
+## **Week 5:** 
+
+https://github.com/tosmeley/project_folder/blob/main/Intro.ipynb
+https://github.com/tosmeley/project_folder/blob/main/Intro1.ipynb
+https://github.com/tosmeley/project_folder/blob/main/Intro_to_Colab.ipynb
 	     
 Week 5 Lab Contents
 *Computational graph
@@ -22,9 +24,10 @@ Week 5 Lab Contents
 *Tf.summary.histogram command
 
 
-**Week 6:** https://github.com/tosmeley/project_folder/blob/main/week_6_lab_2.ipynb
-        https://github.com/tosmeley/project_folder/blob/main/week_6_tuesday_tensorflow_tuesday_excercise_2_.ipynb
-	      https://github.com/tosmeley/project_folder/blob/main/week_6_tensorflow.ipynb
+## **Week 6:** 
+https://github.com/tosmeley/project_folder/blob/main/week_6_lab_2.ipynb
+https://github.com/tosmeley/project_folder/blob/main/week_6_tuesday_tensorflow_tuesday_excercise_2_.ipynb
+https://github.com/tosmeley/project_folder/blob/main/week_6_tensorflow.ipynb
 	      
 ![Screenshot Tensorflow week 6 (1)](https://user-images.githubusercontent.com/60792090/197048524-6fd32327-7de4-4f2b-a79e-8fcae0e030ab.png)	
 ![Screenshot Tensorflow week 6 pic 2 (1)](https://user-images.githubusercontent.com/60792090/197048520-197c1332-d0db-469a-9a33-1887a5034d68.png)
@@ -38,7 +41,8 @@ Week 6 Lab Contents
 *Image Denoising using Neural Network
 
 
-**Week 7:** https://github.com/tosmeley/project_folder/blob/main/week_7_tuesday_.ipynb
+## **Week 7:** 
+https://github.com/tosmeley/project_folder/blob/main/week_7_tuesday_.ipynb
 
 Week 7 Lab Contents
 
