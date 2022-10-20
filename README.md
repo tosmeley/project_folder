@@ -1,7 +1,6 @@
-# project_folder
-Midterm 
+#Midterm 
 
-**Week 2:**:  https://github.com/tosmeley/project_folder/blob/main/week_2.ipynb
+##**Week 2:**:  https://github.com/tosmeley/project_folder/blob/main/week_2.ipynb
          https://github.com/tosmeley/project_folder/blob/main/week_2_part_2.ipynb
 	 
 Week 2 Lab Contents	 
