@@ -1,7 +1,7 @@
 # project_folder
 Midterm 
 
-Week 2:  https://github.com/tosmeley/project_folder/blob/main/week_2.ipynb
+**Week 2:**:  https://github.com/tosmeley/project_folder/blob/main/week_2.ipynb
          https://github.com/tosmeley/project_folder/blob/main/week_2_part_2.ipynb
 	 
 Week 2 Lab Contents	 
@@ -10,7 +10,7 @@ Week 2 Lab Contents
 *Importing Kaggle’s dataset
 *Basic File Operations
 
-Week 5: 
+**Week 5:** 
              https://github.com/tosmeley/project_folder/blob/main/Intro.ipynb
              https://github.com/tosmeley/project_folder/blob/main/Intro1.ipynb
              https://github.com/tosmeley/project_folder/blob/main/Intro_to_Colab.ipynb
@@ -23,7 +23,7 @@ Week 5 Lab Contents
 *Tf.summary.histogram command
 
 
-Week 6: https://github.com/tosmeley/project_folder/blob/main/week_6_lab_2.ipynb
+**Week 6:** https://github.com/tosmeley/project_folder/blob/main/week_6_lab_2.ipynb
         https://github.com/tosmeley/project_folder/blob/main/week_6_tuesday_tensorflow_tuesday_excercise_2_.ipynb
 	      https://github.com/tosmeley/project_folder/blob/main/week_6_tensorflow.ipynb
 	      
@@ -39,7 +39,7 @@ Week 6 Lab Contents
 *Image Denoising using Neural Network
 
 
-Week 7: https://github.com/tosmeley/project_folder/blob/main/week_7_tuesday_.ipynb
+**Week 7:** https://github.com/tosmeley/project_folder/blob/main/week_7_tuesday_.ipynb
 
 Week 7 Lab Contents
 
