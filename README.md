@@ -34,6 +34,7 @@ Week 6 Lab Contents
 *Image Denoising using Neural Network
 
 Week 7: https://github.com/tosmeley/project_folder/blob/main/week_7_tuesday_.ipynb
+
 Week 7 Lab Contents
  *Convolutional Neural Networks
  *The CIFAR-10 Dataset
