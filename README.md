@@ -1,7 +1,7 @@
 # Midterm 
 
 ## **Week 2:**
-**Lab Contents: **
+** Lab Contents: **
 
 Getting started with Google Colab
 
@@ -16,7 +16,7 @@ https://github.com/tosmeley/project_folder/blob/main/week_2_part_2.ipynb
 	 
 
 ## **Week 5:** 
-**Lab Contents:**
+** Lab Contents: **
 
 Computational graph
 
@@ -36,7 +36,8 @@ https://github.com/tosmeley/project_folder/blob/main/Intro_to_Colab.ipynb
 
 
 ## **Week 6:** 
-**Lab Contents:**
+** Lab Contents: **
+
 Linear Regression using TensorFlow
 
 Visualization of Linear Regression parameters using TensorFlow
@@ -58,7 +59,7 @@ https://github.com/tosmeley/project_folder/blob/main/week_6_tensorflow.ipynb
 
 
 ## **Week 7:** 
-**Lab Contents:**
+** Lab Contents: **
 
  Convolutional Neural Networks
  
