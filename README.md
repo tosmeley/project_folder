@@ -2,7 +2,9 @@
 
 ## **Week 2:**
 Lab Contents	 
+
 Getting started with Google Colab
+
 Uploading data
 Importing Kaggle’s dataset
 Basic File Operations
