@@ -42,6 +42,7 @@ Week 6 Lab Contents
 Week 7: https://github.com/tosmeley/project_folder/blob/main/week_7_tuesday_.ipynb
 
 Week 7 Lab Contents
+
 ![weeek 7 tueday (1)](https://user-images.githubusercontent.com/60792090/197048885-cc85c5cd-012d-4ff5-a960-6f0db58ae759.png)
 
  *Convolutional Neural Networks
