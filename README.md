@@ -26,6 +26,10 @@ Week 5 Lab Contents
 Week 6: https://github.com/tosmeley/project_folder/blob/main/week_6_lab_2.ipynb
         https://github.com/tosmeley/project_folder/blob/main/week_6_tuesday_tensorflow_tuesday_excercise_2_.ipynb
 	      https://github.com/tosmeley/project_folder/blob/main/week_6_tensorflow.ipynb
+	      
+![Screenshot week 6 tuesday excersie 2 (1)](https://user-images.githubusercontent.com/60792090/197048510-5b0bbddd-b16c-45f1-875b-36249eb4a2c2.png)
+![Screenshot Tensorflow week 6 pic 2 (1)](https://user-images.githubusercontent.com/60792090/197048520-197c1332-d0db-469a-9a33-1887a5034d68.png)
+![Screenshot Tensorflow week 6 (1)](https://user-images.githubusercontent.com/60792090/197048524-6fd32327-7de4-4f2b-a79e-8fcae0e030ab.png)
 
 Week 6 Lab Contents
 *Linear Regression using TensorFlow
