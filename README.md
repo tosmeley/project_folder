@@ -1,4 +1,4 @@
-# Midterm 
+
 
 ## **Week 2:**
 Lab Contents: 
