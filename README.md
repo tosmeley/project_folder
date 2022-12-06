@@ -80,3 +80,81 @@ https://github.com/tosmeley/project_folder/blob/main/week_7_tuesday_.ipynb
 
 ![weeek 7 tueday (1)](https://user-images.githubusercontent.com/60792090/197048885-cc85c5cd-012d-4ff5-a960-6f0db58ae759.png)
 
+## **Week 9:** 
+
+Lab Contents: 
+ Logistic unit for binary classification
+* Softmax unit for multiclass classification
+* Linear unit for regression
+* The Boston Housing dataset
+* Predicting house prices with a DNN
+* Improving generalization with regularization
+* Experiment: Deeper and regularized models for house
+price prediction
+* Concluding remarks on output units and regression
+problems
+  
+   https://github.com/tosmeley/project_folder/blob/main/week_9_tuesday.ipynb
+   https://github.com/tosmeley/project_folder/blob/main/week_9_wednesday_.ipynb
+
+
+## **Week 10:** 
+Lab Contents: 
+ 
+* VGGNet
+* GoogLeNet
+* ResNet
+* Transfer Learning
+* Data Augmentation as a Regularization Technique
+* Mistakes made by CNNs
+* Reducing parameters with Depthwise Separable
+Convolution
+* Striking the right network design balance with
+* EfficientNet
+
+https://github.com/tosmeley/project_folder/blob/main/week_10_wednesday.ipynb
+
+## **Week 11:** 
+Lab Contents: 
+
+* Limitations of Feedforward Networks
+* Recurrent Neural Networks
+* Mathematical Representation of a Recurrent layer
+* Combining layers into an RNN
+* Alternative veiw of RNN and Unrolling in Time
+* Backpropagation Through Time
+* Programming Example: Forecasting book sales
+
+https://github.com/tosmeley/project_folder/blob/main/week_11.ipynb
+
+## **Week 12:** 
+Lab Contents: 
+
+* Keeping Gradients Healthy
+* Introduction to LSTM
+* Creating a network of LSTM cells
+* Alternative view of LSTM
+
+https://github.com/tosmeley/project_folder/blob/main/week_12_.ipynb
+
+## **Week 13:** 
+Lab Contents: 
+
+Encoding text
+* Longer-term prediction and autoregressive models
+* Beam Search
+* Bidirectional RNNS
+* Different combinations of input and output sequences
+  
+ https://github.com/tosmeley/project_folder/blob/main/week_13.ipynb
+
+ https://github.com/tosmeley/project_folder/blob/main/week_13_wednesday.ipynb
+
+## **Week 14:** 
+Lab Contents: 
+
+* Natural Language Processing using transformer encoder
+
+https://github.com/tosmeley/project_folder/blob/main/week_14_.ipynb
+
+
