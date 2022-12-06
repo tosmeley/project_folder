@@ -140,7 +140,7 @@ https://github.com/tosmeley/project_folder/blob/main/week_12_.ipynb
 ## **Week 13:** 
 Lab Contents: 
 
-Encoding text
+* Encoding text
 * Longer-term prediction and autoregressive models
 * Beam Search
 * Bidirectional RNNS
